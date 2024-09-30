@@ -4,3 +4,4 @@
 dataset/*
 notebooks/data/*
 mlruns/
+labs/
